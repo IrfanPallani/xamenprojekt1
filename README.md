@@ -1,10 +1,4 @@
-# Gruppuppgift_grupp3
-
-Här förklarar jag Gruppexamen steg för steg.
-
-
-Krav: python
-Version  3.11.9
+###Python Version  3.11.9
 Virsuellt enviroment: venv
 ## steg för steg_
 git init
@@ -14,27 +8,6 @@ git init
  cd uppgift_grupp3
 3. skapa ett virtuellt enviroment
     python -m venv venv
-4.Aktvierade vårt virtuella 
-     Windows: .\venv\Scripts\activate
-     Mac/Linux: source venv/bin`/activate
-5. Installera alla dependecises
-    pip install -r requirements.txt
-6. Alla börja klonade repon och skapade en branch med var o ch sitt namn.
-7. Vi började arbeta i våra egna brancher och gjorde ändringar i filerna.
-8. När vi var klara med våra ändringar så gjorde vi en git add . , git commit -m
-9. sedag gjorde vi git push -u origin med vårt branch namn.
-10 vi skapade en pull request på github repon.
-11. När alla var klara så megrade vi alla brancher in i main branchen.
-
-Roller och ansvar:
-* Person 1:Ansvarig för data insamling och förbehandling.
-* person 2: Ansvarig för meodellering och utverdering.
-
-
-
-
-
-
 git initieraring av en ny repo
 * pip install -r requirements.txt
 * Ifall det inte funkar så se till att du ligger i rätt filmap. T.ex. "cd Gruppuppgift_grupp3" sen pip install.
